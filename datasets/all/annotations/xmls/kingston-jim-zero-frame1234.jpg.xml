@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>3</ymin>
+			<ymax>355</ymax>
+			<xmax>480</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>13</ymin>
+			<ymax>161</ymax>
+			<xmax>349</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>39</ymin>
+			<ymax>192</ymax>
+			<xmax>248</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-jim-zero-frame1234.jpg</filename>
+</annotation>

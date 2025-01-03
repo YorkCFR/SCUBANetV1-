@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	<object>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>62</ymin>
+			<ymax>206</ymax>
+			<xmax>388</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>221</ymin>
+			<ymax>338</ymax>
+			<xmax>363</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-jim-me-frame0533.jpg</filename>
+</annotation>

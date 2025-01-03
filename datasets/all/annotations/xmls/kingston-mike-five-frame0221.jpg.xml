@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>9</ymin>
+			<ymax>356</ymax>
+			<xmax>636</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>12</ymin>
+			<ymax>187</ymax>
+			<xmax>551</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>300</ymin>
+			<ymax>359</ymax>
+			<xmax>278</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-mike-five-frame0221.jpg</filename>
+</annotation>

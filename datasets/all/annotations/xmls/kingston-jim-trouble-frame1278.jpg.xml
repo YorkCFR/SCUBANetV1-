@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>87</ymin>
+			<ymax>349</ymax>
+			<xmax>632</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>92</ymin>
+			<ymax>245</ymax>
+			<xmax>465</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>248</ymin>
+			<ymax>344</ymax>
+			<xmax>285</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-jim-trouble-frame1278.jpg</filename>
+</annotation>

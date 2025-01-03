@@ -1,0 +1,33 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>6</ymin>
+			<ymax>670</ymax>
+			<xmax>898</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>4</ymin>
+			<ymax>328</ymax>
+			<xmax>706</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>seneca_044_right_frame00145.jpg</filename>
+</annotation>

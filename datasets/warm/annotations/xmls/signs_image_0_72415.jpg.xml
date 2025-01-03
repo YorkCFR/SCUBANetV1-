@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>183</ymin>
+			<ymax>357</ymax>
+			<xmax>493</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>217</ymin>
+			<ymax>262</ymax>
+			<xmax>363</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>184</ymin>
+			<ymax>262</ymax>
+			<xmax>401</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	<filename>signs_image_0_72415.jpg</filename>
+</annotation>

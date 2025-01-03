@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>4</ymin>
+			<ymax>349</ymax>
+			<xmax>632</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>4</ymin>
+			<ymax>179</ymax>
+			<xmax>500</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>161</ymin>
+			<ymax>301</ymax>
+			<xmax>475</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-mike-level-off-frame0396.jpg</filename>
+</annotation>

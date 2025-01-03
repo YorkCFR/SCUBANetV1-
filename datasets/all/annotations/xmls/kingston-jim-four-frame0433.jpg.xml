@@ -1,0 +1,35 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>95</ymin>
+			<ymax>244</ymax>
+			<xmax>458</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>119</ymin>
+			<ymax>257</ymax>
+			<xmax>379</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-jim-four-frame0433.jpg</filename>
+</annotation>

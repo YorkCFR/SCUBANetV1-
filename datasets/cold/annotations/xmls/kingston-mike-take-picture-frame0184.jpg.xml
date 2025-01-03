@@ -1,0 +1,35 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>33</ymin>
+			<ymax>351</ymax>
+			<xmax>580</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>45</ymin>
+			<ymax>222</ymax>
+			<xmax>459</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-mike-take-picture-frame0184.jpg</filename>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>298</ymin>
+			<ymax>462</ymax>
+			<xmax>710</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>barbados_006_left_frame12772.jpg</filename>
+</annotation>

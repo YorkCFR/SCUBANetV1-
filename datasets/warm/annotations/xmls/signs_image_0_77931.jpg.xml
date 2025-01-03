@@ -1,0 +1,63 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>129</ymin>
+			<ymax>358</ymax>
+			<xmax>490</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>326</ymin>
+			<ymax>356</ymax>
+			<xmax>488</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>258</ymin>
+			<ymax>322</ymax>
+			<xmax>359</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>138</ymin>
+			<ymax>234</ymax>
+			<xmax>384</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<filename>signs_image_0_77931.jpg</filename>
+</annotation>

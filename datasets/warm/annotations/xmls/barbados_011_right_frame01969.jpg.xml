@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>334</ymin>
+			<ymax>702</ymax>
+			<xmax>900</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>344</ymin>
+			<ymax>482</ymax>
+			<xmax>782</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>724</xmin>
+			<ymin>558</ymin>
+			<ymax>634</ymax>
+			<xmax>822</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>466</ymin>
+			<ymax>572</ymax>
+			<xmax>482</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>barbados_011_right_frame01969.jpg</filename>
+</annotation>

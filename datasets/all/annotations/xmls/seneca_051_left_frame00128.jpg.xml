@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>2</ymin>
+			<ymax>574</ymax>
+			<xmax>1038</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>46</ymin>
+			<ymax>320</ymax>
+			<xmax>828</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>178</ymin>
+			<ymax>320</ymax>
+			<xmax>454</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>760</xmin>
+			<ymin>252</ymin>
+			<ymax>522</ymax>
+			<xmax>974</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>seneca_051_left_frame00128.jpg</filename>
+</annotation>

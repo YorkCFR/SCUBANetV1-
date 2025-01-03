@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>5</ymin>
+			<ymax>131</ymax>
+			<xmax>405</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>272</ymin>
+			<ymax>346</ymax>
+			<xmax>280</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>200</ymin>
+			<ymax>315</ymax>
+			<xmax>547</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-mike-come-here-frame0508.jpg</filename>
+</annotation>

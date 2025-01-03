@@ -1,0 +1,35 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>142</ymin>
+			<ymax>288</ymax>
+			<xmax>298</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>218</ymin>
+			<ymax>342</ymax>
+			<xmax>520</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-mike-up-frame0018.jpg</filename>
+</annotation>

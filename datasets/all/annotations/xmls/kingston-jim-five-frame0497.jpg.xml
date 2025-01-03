@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>74</ymin>
+			<ymax>232</ymax>
+			<xmax>423</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-jim-five-frame0497.jpg</filename>
+</annotation>

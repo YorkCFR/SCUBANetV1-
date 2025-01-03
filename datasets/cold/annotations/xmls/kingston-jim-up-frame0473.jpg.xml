@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>41</ymin>
+			<ymax>164</ymax>
+			<xmax>390</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>166</ymin>
+			<ymax>266</ymax>
+			<xmax>300</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>282</ymin>
+			<ymax>347</ymax>
+			<xmax>607</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-jim-up-frame0473.jpg</filename>
+</annotation>

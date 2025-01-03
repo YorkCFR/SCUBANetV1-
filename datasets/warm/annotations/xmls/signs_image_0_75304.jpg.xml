@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>123</ymin>
+			<ymax>355</ymax>
+			<xmax>627</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>signs_image_0_75304.jpg</filename>
+</annotation>

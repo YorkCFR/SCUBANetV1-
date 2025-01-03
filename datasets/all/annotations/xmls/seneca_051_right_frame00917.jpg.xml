@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>176</ymin>
+			<ymax>530</ymax>
+			<xmax>708</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>seneca_051_right_frame00917.jpg</filename>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>63</ymin>
+			<ymax>341</ymax>
+			<xmax>551</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>85</ymin>
+			<ymax>228</ymax>
+			<xmax>400</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<filename>kingston-jim-that-direction-frame0252.jpg</filename>
+</annotation>

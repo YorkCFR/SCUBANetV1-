@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>932</xmin>
+			<ymin>458</ymin>
+			<ymax>596</ymax>
+			<xmax>1120</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>seneca_003_right_frame00770.jpg</filename>
+</annotation>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>6</ymin>
+			<ymax>500</ymax>
+			<xmax>1104</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>912</xmin>
+			<ymin>332</ymin>
+			<ymax>510</ymax>
+			<xmax>1098</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>238</ymin>
+			<ymax>416</ymax>
+			<xmax>524</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>2</ymin>
+			<ymax>154</ymax>
+			<xmax>908</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>seneca_002_right_frame00020.jpg</filename>
+</annotation>

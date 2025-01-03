@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>41</ymin>
+			<ymax>352</ymax>
+			<xmax>585</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-jim-five-frame0468.jpg</filename>
+</annotation>

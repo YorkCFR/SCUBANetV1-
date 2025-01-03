@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>162</ymin>
+			<ymax>358</ymax>
+			<xmax>449</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>179</ymin>
+			<ymax>235</ymax>
+			<xmax>389</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>222</ymin>
+			<ymax>259</ymax>
+			<xmax>358</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>barbados_012_left_frame02713.jpg</filename>
+</annotation>

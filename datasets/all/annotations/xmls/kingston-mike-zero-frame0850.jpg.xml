@@ -1,0 +1,52 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>57</ymin>
+			<ymax>357</ymax>
+			<xmax>617</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>79</ymin>
+			<ymax>256</ymax>
+			<xmax>465</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>286</ymin>
+			<ymax>357</ymax>
+			<xmax>283</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-mike-zero-frame0850.jpg</filename>
+</annotation>

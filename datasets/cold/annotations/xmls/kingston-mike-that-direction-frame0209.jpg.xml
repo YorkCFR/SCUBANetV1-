@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>39</ymin>
+			<ymax>201</ymax>
+			<xmax>395</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>kingston-mike-that-direction-frame0209.jpg</filename>
+</annotation>

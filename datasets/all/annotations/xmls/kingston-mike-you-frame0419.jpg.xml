@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	<object>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>13</ymin>
+			<ymax>351</ymax>
+			<xmax>624</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>20</ymin>
+			<ymax>202</ymax>
+			<xmax>423</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>212</ymin>
+			<ymax>349</ymax>
+			<xmax>254</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-mike-you-frame0419.jpg</filename>
+</annotation>

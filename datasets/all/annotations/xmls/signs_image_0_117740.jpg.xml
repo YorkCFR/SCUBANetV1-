@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>204</ymin>
+			<ymax>277</ymax>
+			<xmax>389</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>signs_image_0_117740.jpg</filename>
+</annotation>

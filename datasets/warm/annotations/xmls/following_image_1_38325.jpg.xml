@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>162</ymin>
+			<ymax>297</ymax>
+			<xmax>326</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<filename>following_image_1_38325.jpg</filename>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	<object>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>18</ymin>
+			<ymax>153</ymax>
+			<xmax>449</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>94</ymin>
+			<ymax>252</ymax>
+			<xmax>416</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>kingston-jim-six-frame0203.jpg</filename>
+</annotation>

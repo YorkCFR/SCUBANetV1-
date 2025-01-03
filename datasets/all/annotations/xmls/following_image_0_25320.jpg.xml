@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>259</ymin>
+			<ymax>287</ymax>
+			<xmax>321</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<filename>following_image_0_25320.jpg</filename>
+</annotation>

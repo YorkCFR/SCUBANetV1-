@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>54</ymin>
+			<ymax>700</ymax>
+			<xmax>1078</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>seneca_008_right_frame00702.jpg</filename>
+</annotation>

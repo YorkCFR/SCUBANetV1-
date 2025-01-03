@@ -1,0 +1,46 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>220</ymin>
+			<ymax>614</ymax>
+			<xmax>784</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>466</ymin>
+			<ymax>588</ymax>
+			<xmax>606</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>432</ymin>
+			<ymax>560</ymax>
+			<xmax>770</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>seneca_004_left_frame01204.jpg</filename>
+</annotation>

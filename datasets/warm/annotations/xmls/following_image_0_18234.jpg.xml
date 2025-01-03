@@ -1,0 +1,60 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>196</ymin>
+			<ymax>329</ymax>
+			<xmax>527</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>303</ymin>
+			<ymax>326</ymax>
+			<xmax>475</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>297</ymin>
+			<ymax>323</ymax>
+			<xmax>462</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>203</ymin>
+			<ymax>261</ymax>
+			<xmax>513</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>following_image_0_18234.jpg</filename>
+</annotation>

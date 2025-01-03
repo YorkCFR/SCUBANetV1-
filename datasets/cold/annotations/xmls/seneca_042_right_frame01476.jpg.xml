@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>60</ymin>
+			<ymax>384</ymax>
+			<xmax>720</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	<object>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>330</ymin>
+			<ymax>572</ymax>
+			<xmax>912</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	<filename>seneca_042_right_frame01476.jpg</filename>
+</annotation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>197</ymin>
+			<ymax>268</ymax>
+			<xmax>238</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>242</ymin>
+			<ymax>304</ymax>
+			<xmax>405</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>85</ymin>
+			<ymax>181</ymax>
+			<xmax>327</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<filename>signs_image_1_108399.jpg</filename>
+</annotation>

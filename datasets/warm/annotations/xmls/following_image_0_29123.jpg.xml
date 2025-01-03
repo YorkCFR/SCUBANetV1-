@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	
+	<object>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>254</ymin>
+			<ymax>313</ymax>
+			<xmax>576</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	<filename>following_image_0_29123.jpg</filename>
+</annotation>

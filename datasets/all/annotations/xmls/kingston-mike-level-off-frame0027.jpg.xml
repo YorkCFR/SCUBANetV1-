@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	
+	<object>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>7</ymin>
+			<ymax>154</ymax>
+			<xmax>403</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Head</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<filename>kingston-mike-level-off-frame0027.jpg</filename>
+</annotation>

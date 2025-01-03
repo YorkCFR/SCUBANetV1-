@@ -1,0 +1,53 @@
+<?xml version="1.0" ?><annotation>
+	<segmented>0</segmented>
+	<folder>less_selected</folder>
+	<size>
+		<width>640</width>
+		<height>360</height>
+	</size>
+	<object>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>88</ymin>
+			<ymax>357</ymax>
+			<xmax>391</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Diver</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	<object>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>188</ymin>
+			<ymax>220</ymax>
+			<xmax>265</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	<object>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>199</ymin>
+			<ymax>217</ymax>
+			<xmax>386</xmax>
+		</bndbox>
+		<difficult>0</difficult>
+		<pose>Unspecified</pose>
+		<name>Hand</name>
+		<truncated>0</truncated>
+	</object>
+	
+	
+	
+	
+	<filename>following_image_0_25371.jpg</filename>
+</annotation>

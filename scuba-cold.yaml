@@ -1,0 +1,9 @@
+train: ./datasets/cold/train.txt
+val: ./datasets/cold/validate.txt
+test: ./datasets/cold/test.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Head', 'Diver', 'Hand' ]
