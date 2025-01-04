@@ -2,7 +2,7 @@
 
 This is a dataset that contains images of SCUBA divers interacting with
 an underwater unmanned vehicle in both Warm and Cold water environments.
-Object annotations for body, head and hands were produced through manual labelig.
+Object annotations for body, head and hands were produced through manual labelling.
 
 ```
 usage: train.py [-h] [--yolo_model YOLO_MODEL] [--cfg_file CFG_FILE] yaml_file
